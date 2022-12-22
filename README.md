@@ -8,3 +8,4 @@ In order to compare the different approaches we will focus on some particular ph
 quantities: the correlation function, the structure factor and finally the diffusion coeffi-
 cient.
 In the folder `libraries` you can find the implementation of the main MD and MC techniques used to obtain the results presented in the report.
+![gts](https://user-images.githubusercontent.com/101207416/209177927-0fa6010c-c865-4a40-ae60-74d9856f02d8.png)
