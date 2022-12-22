@@ -2,8 +2,8 @@
 Simulation of Liquid Argon through Molecular Dynamics and Monte Carlo techniques
 In this project we are interested in analyzing the results obtained simulating a Lennard-
 Jones fluid through different tecniques: the first one will be a NVE simulation performed
-through Molecular Dynamics; the second one a NVT simulation through Molecular dy-
-namics and Nosé-Hoover thermostat; the third one will be a Monte Carlo NVT simulation.
+through Molecular Dynamics; the second one a NVT simulation through Molecular 
+Dynamics and Nosé-Hoover thermostat; the third one will be a Monte Carlo NVT simulation.
 In order to compare the different approaches we will focus on some particular physical
 quantities: the correlation function, the structure factor and finally the diffusion coeffi-
 cient.
