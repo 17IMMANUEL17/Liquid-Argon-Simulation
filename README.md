@@ -7,4 +7,4 @@ namics and Nosé-Hoover thermostat; the third one will be a Monte Carlo NVT simu
 In order to compare the different approaches we will focus on some particular physical
 quantities: the correlation function, the structure factor and finally the diffusion coeffi-
 cient.
-I the folder `libraries` you can find the implementation of the main MD and MC techniques used to obtain the results presented in the report.
+In the folder `libraries` you can find the implementation of the main MD and MC techniques used to obtain the results presented in the report.
